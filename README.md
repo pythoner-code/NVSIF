@@ -1,2 +1,2 @@
 # NVSIF
-An automated Phishing URL detector
+An automated Malacious URL detector
